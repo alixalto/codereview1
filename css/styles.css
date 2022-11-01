@@ -1,0 +1,15 @@
+img {
+  float: left;
+}
+
+.listheadings {
+  font-style: italic;
+  font-weight: bold;
+  color: mediumvioletred;
+}
+
+.subheadings {
+  font-style: italic;
+  font-weight: bold;
+  color: salmon;
+}
