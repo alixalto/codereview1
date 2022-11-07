@@ -3,6 +3,7 @@
 #### By Alix Alto
 
 #### This project is a portfolio.
+[CLICK HERE TO VISIT THE SITE LIVE ON GH-PAGES](https://alixalto.github.io/codereview1/)
 
 ## Technologies Used
 
